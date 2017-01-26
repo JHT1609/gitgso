@@ -2,3 +2,6 @@
 Það er aðallega talað um tvær tegundir af gögnum þegar talað er um gagnasöfn í dag, rafræn gögn og stafræn gögn. Rafræn gögn geta verið snert eins og DVD diskur meðan stafræn gögn eru eins og Netflix mynd sem ekki er hægt að snerta og er sent í gegnum netið. Það eru líka til önnur form af gögnum eins og bækur og blöð sem geta verið betri en rafræn og stafræn gögn því þau endast lengur. sagt að raf- og stafræn gagnasöfn endist bara í kringum 30 ár áður en það þarf að fara skipta þeim út fyrir ný. Bækur geta oft enst í meira en hundrað ár ef það er farið rétt með þær. 
 Gagnasafn er skilgreint sem safn upplýsinga eða gagna um tiltekið efni. Það þýðir að bókasöfn og vefsíður geta talist sem gagnasöfn. 
 Á Íslandi er hver einasti ríkisborgari skráður í gagnasafn þar sem nafn, fæðingardagur, trú og fleiri upplýsingar eru geymdar um hann eða hana, fyrir Íslendinga er líka til síðan islendingabok.is þar sem ríkisborgarar geta rakið ætt sína aftur til áttundu aldarinnar.
+Færsla í tölvum virkar mjög einfaldlega. Tölvan les alla efnið og sendir alveg eins afritun til aðra tölvu.
+Skrá eða File er leið fyrir tölvur til að geyma öll gögn sín. Það er gert til að skipuleggja gögn.
+Skráarsnið eða file format eru leiðbeiningar fyrir tölvuna um hvernig á að opna gögnin sín. Oft eru skráarsnið með sín eigin sérstöku forrit til að opna sig.
