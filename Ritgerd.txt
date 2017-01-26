@@ -5,3 +5,4 @@ Gagnasafn er skilgreint sem safn upplýsinga eða gagna um tiltekið efni. Það
 Færsla í tölvum virkar mjög einfaldlega. Tölvan les alla efnið og sendir alveg eins afritun til aðra tölvu.
 Skrá eða File er leið fyrir tölvur til að geyma öll gögn sín. Það er gert til að skipuleggja gögn.
 Skráarsnið eða file format eru leiðbeiningar fyrir tölvuna um hvernig á að opna gögnin sín. Oft eru skráarsnið með sín eigin sérstöku forrit til að opna sig.
+Það er greinilegt að gagnasöfn hafa þróast mjög mikið þessa síðustu áratugi. Að geta skrifað næstum hvaða spurnigu sem er og fengið ótal mikið af svörum er ótrúlegt þegar maður hugsar út í það. Að geta fengið svar á nokkrum sekúndum í staðinn fyrir að lesa heila bók.
